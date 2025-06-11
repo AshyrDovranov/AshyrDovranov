@@ -37,4 +37,22 @@
   <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" style="width: 100%; height: 100%;" />
 </div>
 
+---
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashyr&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashyr&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashyr&theme=radical" />
+</p>
+
+
 
