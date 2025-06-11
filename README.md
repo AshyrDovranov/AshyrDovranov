@@ -32,12 +32,27 @@
 </p>
 
 ---
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asyr&show_icons=true&theme=radical" alt="Ashyr's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyr&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asyr&theme=radical" alt="GitHub Streak" />
+</p>
+
 
 <div align="center">
   <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" style="width: 100%; height: 100%;" />
 </div>
 
----
 ---
 
 ## 📊 GitHub Stats
