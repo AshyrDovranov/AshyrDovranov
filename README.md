@@ -18,7 +18,6 @@
 - Web developer.
 - 🤝 I’m available for freelancing.
 - How to reach me asyr5941@gmail.com
--
 - 💬 My WhatsApp chat +375 (25)524-96-06
 
 <br><br>
