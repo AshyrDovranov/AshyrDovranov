@@ -14,7 +14,7 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px" />
 </p>
 
-- Layout designer with HTML, CSS, SCSS, and JavaScript  
+- Layout designer with HTML, CSS, SCSS,JavaScript,React JS and Python  
 - Student at the Belarusian National Technical University  
 - Web Developer  
 - 🤝 Available for freelancing  
@@ -58,10 +58,10 @@
 ## 📫 Find me on
 
 <p align="center">
-  <a href="https://linkedin.com/in/asyr" target="_blank">
+  <a href="https://linkedin.com/in/Ashyr Dovranov" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://t.me/ашыр" target="_blank">
+  <a href="https://t.me/@webdovranov" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://wa.me/+375255249606" target="_blank">
